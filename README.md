@@ -1,4 +1,4 @@
-# DeskTap
+# Tapify
 
 Control a laptop by tapping the desk beside it, sensed with nothing but the laptop's
 built-in microphones. A tap to the left or right of the laptop is detected, grouped into
